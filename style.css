@@ -150,5 +150,5 @@ body {
     background: url('images/bg.jpeg') no-repeat center center;
     background-size: cover;
     min-height: 100vh;
-    border: 5px solid red; /* This will show if CSS is loading */
+   /* border: 5px solid red; /* This will show if CSS is loading */
 }
